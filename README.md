@@ -3,6 +3,4 @@
 Features include:
 * Python Basics
 * Data analysis using pandas and NumPy
-* Machine learning using scikit-learn
-* Web development using Flask
 * Visualization using Matplotlib 
